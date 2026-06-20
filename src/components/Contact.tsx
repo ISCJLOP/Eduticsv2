@@ -1,5 +1,5 @@
 import { Mail, Phone } from 'lucide-react';
-import { useState } from 'react';
+import React, { useState } from 'react';
 
 export default function Contact() {
   const [buttonText, setButtonText] = useState('Enviar Mensaje');
