@@ -10,7 +10,7 @@ export default function Courses() {
       id: "python-ia",
       title: "Introducción al análisis de datos con Python",
       description: "Domina los fundamentos de la programación enfocada al procesamiento de grandes volúmenes de datos.",
-      image: "/python-curso.jpg",
+      image: "https://github.com/ISCJLOP/Eduticsv2/blob/main/public/python-curso.jpg",
       badge: "Destacado",
       badgeColor: "bg-primary text-on-primary",
       categoryIcon: <Code className="w-4 h-4" />,
